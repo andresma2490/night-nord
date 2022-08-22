@@ -18,11 +18,13 @@
       }
     ]
   },
-  "icon": "./icon/icon.png",
+  "icon": "icon/icon.png",
   "author": {
     "name": "Andres Mauricio Montenegro",
     "email": "andresma2490@gmail.com",
     "url": "https://www.linkedin.com/in/andresmon/"
   },
+  "repository": "https://github.com/andresma2490/night-nord",
+  "license": "MIT",
   "publisher": "andresma"
 }
