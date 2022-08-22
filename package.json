@@ -1,0 +1,28 @@
+{
+  "name": "night-nord",
+  "displayName": "night nord",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "night nord theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night nord theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "./icon/icon.png",
+  "author": {
+    "name": "Andres Mauricio Montenegro",
+    "email": "andresma2490@gmail.com",
+    "url": "https://www.linkedin.com/in/andresmon/"
+  },
+  "publisher": "andresma"
+}
